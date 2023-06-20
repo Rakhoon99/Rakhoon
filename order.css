@@ -1,0 +1,14 @@
+.order_table{
+    border: 1px solid black;
+}
+th{
+    border: 2px solid rgb(28, 29, 28);
+    color: aliceblue;
+    font-size: 25px;
+    margin: 10px;
+    text-shadow: 1px 2px 2px rgb(49, 7, 235);
+}
+td{
+    border: 1px solid black;
+    color: black;
+}
